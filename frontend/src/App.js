@@ -12,6 +12,7 @@ const App = () => {
         <Route path="/create" element={<CreateRecipeForm />} />
         <Route path="/browse" element={<BrowseRecipes />} />
       </Routes>
+      
     </Router>
   );
 };

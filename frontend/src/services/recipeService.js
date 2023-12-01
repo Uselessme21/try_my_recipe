@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8090/api/recipe';
+const API_BASE_URL = 'https://try-my-recipe-nine.vercel.app/api/recipe';
 
 const recipeService = {
 
